@@ -1,5 +1,4 @@
-# Turtle-2D
-Turtle (2D) as in LOGO
+# Turtle-2D as in LOGO
 
 ===================================
 
@@ -26,6 +25,7 @@ S - save image (shift-s) (with date and time stamp).
 # The following keys control the Turtle and get recorded 
 
  * Use wasd keys. The movement is always seen relative from the Turtle perspective. w is forward, a is left, d is right, s is backward, seen from the Turtle. 
+ 
 p Pen up / down. Useful when you want to move the Turtle to another place on the screen without drawing.
 Use r(ed), g(reen) and b(lue) and v (black) and n (white) for the color the Turtle draws.
 Use + / - for Stroke Weight.

@@ -37,11 +37,17 @@ S - save image (shift-s) (with date and time stamp).
  * Use wasd keys. The movement is always seen relative from the Turtle perspective. w is forward, a is left, d is right, s is backward, seen from the Turtle. 
  
 p Pen up / down. Useful when you want to move the Turtle to another place on the screen without drawing.
+
 Use r(ed), g(reen) and b(lue) and v (black) and n (white) for the color the Turtle draws.
+
 Use + / - for Stroke Weight.
+
 Use A / D for rotate left/right 90°.
+
 Use O / P for rotate by 1°.
+
 Use , / . for changing the length of a step (comma and dot).
+
 
 # Menu 
 

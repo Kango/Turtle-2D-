@@ -17,15 +17,14 @@ l (lower-case L) prints the commands (to copy and paste).
 c is reset / delete all (prints and deletes the entire Turtle command String).
 Backspace - undo last step(s)
 Cursor keys - move the entire canvas (useful when the Turtle reached a screen border)
+
 1 - load Turtle Script.
 2 - save Turtle Script.
 3 - save as... Turtle Script.
 4 - Insert Turtle Script (load and insert into existing Turtle Script)
 S - save image (shift-s) (with date and time stamp).
 
-
-
-The following keys control the Turtle and get recorded 
+#The following keys control the Turtle and get recorded 
 
 Use wasd keys. The movement is always seen relative from the Turtle perspective. w is forward, a is left, d is right, s is backward, seen from the Turtle. 
 p Pen up / down. Useful when you want to move the Turtle to another place on the screen without drawing.
@@ -35,12 +34,7 @@ Use A / D for rotate left/right 90°.
 Use O / P for rotate by 1°.
 Use , / . for changing the length of a step (comma and dot).
 
-
-
-Hit Escape key to leave the help.
-
-
-Menu 
+#Menu 
 1: New
 2: Open
 3: Save
